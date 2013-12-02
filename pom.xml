@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.massivecraft</groupId>
 	<artifactId>mcore</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>6.9.2-SNAPSHOT</version>
 
 
 	<repositories>
